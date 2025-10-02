@@ -51,6 +51,10 @@
           {
             "group": "Developer tools",
             "pages": ["docs/tools/inspector"]
+          },
+          {
+            "group": "Observability",
+            "pages": ["docs/tools/datadog"]
           }
         ]
       },
